@@ -1,10 +1,10 @@
 -- DO NOT TOUCH BELOW!!
 
 getgenv().Key = "swornrare";
-local larp_loader = "https://codeberg.org/csgofirepro7/NewLoader/raw/branch/main/"
+local larp_loader = "https://codeberg.org/SwornRare/Main/raw/branch/main/Main"
 local larp_assets = "https://raw.githubusercontent.com/Kompotas/ActualLirp/refs/heads/main/"
 local sigma_loader = "https://raw.githubusercontent.com/SWIMHUBISWIMMING/cracked/refs/heads/main/lirping/loaders/"
-local sigma_assets = "https://raw.githubusercontent.com/SWIMHUBISWIMMING/cracked/refs/heads/main/lirping/assets/"
+local sigma_assets = "https://github.com/bxbyrare/lirping-crackeado/tree/main/assets"
 
 local _game = getrenv().game;
 local mt = {}
