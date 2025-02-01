@@ -1,6 +1,6 @@
 -- DO NOT TOUCH BELOW!!
 
-getgenv().Key = "crackedlirping";
+getgenv().Key = "swornrare";
 local larp_loader = "https://codeberg.org/csgofirepro7/NewLoader/raw/branch/main/"
 local larp_assets = "https://raw.githubusercontent.com/Kompotas/ActualLirp/refs/heads/main/"
 local sigma_loader = "https://raw.githubusercontent.com/SWIMHUBISWIMMING/cracked/refs/heads/main/lirping/loaders/"
